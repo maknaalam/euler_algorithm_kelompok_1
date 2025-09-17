@@ -9,7 +9,7 @@ Group Members:
 
 ### Fleury 
 
-Fleury.png
+![1](Fleury.png)<br />
 
 Test case 1:
 ```bash
@@ -122,8 +122,7 @@ int main() {
 }
 
 ```
-
-hielholzer.png
+![2](hielholzer.png)<br />
 
 Test case 1:
 ```bash
@@ -157,7 +156,7 @@ Subtours:
 5. 2 - 10 - 11 - 2
 ```
 
-Test case 1:
+Test case 2:
 ```bash
 3 2
 0 1
