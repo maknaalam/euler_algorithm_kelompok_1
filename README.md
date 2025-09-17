@@ -132,7 +132,7 @@ int main() {
 }
 
 ```
-![2](hielholzer.png)<br />
+![2](hierholzer.png)<br />
 
 Test case 1:
 ```bash
