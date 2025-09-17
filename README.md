@@ -7,6 +7,16 @@ Group Members:
 -	Rayen Yeriel Mangiwa (5025241262)
 -	Makna Alam Pratama (5025241077)
 
+Input details:
+
+First line: first_number second_number
+
+After the first line: (node_1 node_2) * second number
+
+- first_number = the number of nodes
+- second_number = the number of edges
+- after the first line = is a group number by two number. It get repeated as many as the second_number is (which it representing the edges)
+
 ### Fleury 
 
 ![1](Fleury.png)<br />
@@ -40,7 +50,7 @@ Output:
 ```bash
 euler path not found
 ```
-
+Program:
 
 ```bash
 #include <bits/stdc++.h>
@@ -166,8 +176,7 @@ Output:
 ```bash
 euler path not found
 ```
-
-
+Program:
 ```bash
 #include <bits/stdc++.h>
 using namespace std;
